@@ -1,0 +1,14 @@
+body{
+	background: grey;
+	color: skyblue
+}
+
+p{
+	font-family: arial;
+	font-size: 30px;
+	color: black
+}
+
+p strong{
+	color:yellow;
+}
