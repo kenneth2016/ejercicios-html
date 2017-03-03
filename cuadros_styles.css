@@ -1,0 +1,46 @@
+
+.square{
+	border : 2px black solid;
+	height: 60px;
+	width: 60px;
+	display: block;
+
+
+}
+
+.red{
+	background-color: red;
+	bottom: 250px;
+	right: 100px;
+	position: fixed;
+
+}
+
+.blue{
+	background-color: blue;
+	bottom: 230px;
+	right: 85px;
+	position: fixed;
+
+}
+
+.green{
+	background-color: green;
+
+}
+
+.orange{
+	background-color: orange;
+}
+
+.black{
+	background-color: 	black;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.pink{
+	background-color: pink;
+}
