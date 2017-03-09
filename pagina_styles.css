@@ -1,0 +1,29 @@
+.background{
+
+}
+
+.primero{
+	height: 600px;
+	width: 100pxpx;
+	background: url(mujer1.jpg);
+	background-size:cover;
+}
+
+.super_titulo{
+	font-size: 25px
+}
+.primer_titulo{
+	font-size: 40px
+}
+
+.button{
+	text-align: center
+}
+
+.lista{
+	float: right;
+}
+
+h1{
+	color: green;
+}
