@@ -3,17 +3,24 @@
 }
 
 .primero{
-	height: 600px;
+	height: 500px;
 	width: 100pxpx;
-	background: url(mujer1.jpg);
+	background: url(mujer1_si.jpg);
 	background-size:cover;
 }
 
 .super_titulo{
-	font-size: 25px
+	font-size: 25px;
+	color: white;
+	float:left;
+
+
 }
 .primer_titulo{
-	font-size: 40px
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	clear: both;
 }
 
 .button{
@@ -24,6 +31,43 @@
 	float: right;
 }
 
+.boton{
+	background-color: green;
+	color:white;
+}
+
 h1{
 	color: green;
+}
+
+.menu{
+	color: white;
+
+}
+
+.primer_parrafo{
+	text-align: center;
+	color: white;
+	margin: auto;
+	width:450px;
+}
+
+.dos_cuadros{
+	height: 300px;
+
+}
+
+.primer_cuadro{
+	background: url(mujer2.jpg);
+	background-size:cover;
+	width:50%;
+	float:left;
+	height: 100%;
+}
+
+.segundo_cuadro{
+	background-color: lime;
+	width:50%;
+	float:right;
+	height: 100%;
 }
