@@ -16,11 +16,20 @@
 
 
 }
+
+.div_parrafo{
+	padding: 100px
+}
+
+.parrafo1{
+	text-align: justify;
+}
 .primer_titulo{
 	font-size: 40px;
 	color: white;
 	text-align: center;
 	clear: both;
+	font-weight: normal;
 }
 
 .button{
@@ -38,6 +47,7 @@
 
 h1{
 	color: green;
+	font-weight: normal;
 }
 
 .menu{
@@ -70,4 +80,24 @@ h1{
 	width:50%;
 	float:right;
 	height: 100%;
+}
+
+.titulo_cuadro{
+	text-align: center;
+	color: white;
+
+
+}
+
+.parrafo2{
+	color: white;
+	margin: 50px;
+
+}
+
+.boton2{
+	color: green;
+	background-color: white;
+	margin-left: 50px;
+	border:none;
 }
