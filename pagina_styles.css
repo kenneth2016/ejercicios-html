@@ -1,4 +1,9 @@
-.background{
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.todo{
+	border-radius: 10px
 
 }
 
@@ -7,13 +12,14 @@
 	width: 100pxpx;
 	background: url(mujer1_si.jpg);
 	background-size:cover;
+	border-radius: 10px
 }
 
 .super_titulo{
 	font-size: 25px;
 	color: white;
 	float:left;
-
+	padding: 25px;
 
 }
 
@@ -40,18 +46,25 @@
 	float: right;
 }
 
+input{
+	border-radius: 10px;
+}
+
 .boton{
-	background-color: green;
+	background-color: #5CAC55;
 	color:white;
+	border: none;
+	border-radius: 10px;
 }
 
 h1{
-	color: green;
+	color: #5CAC55;
 	font-weight: normal;
 }
 
 .menu{
 	color: white;
+	padding: 25px;
 
 }
 
@@ -76,7 +89,7 @@ h1{
 }
 
 .segundo_cuadro{
-	background-color: lime;
+	background-color: #5CAC55;
 	width:50%;
 	float:right;
 	height: 100%;
@@ -100,4 +113,16 @@ h1{
 	background-color: white;
 	margin-left: 50px;
 	border:none;
+}
+
+.sponsors{
+	height: 400px;
+	background-color: white;
+	text-align: center;
+
+}
+
+.titulo_sponsor{
+	color: gray;
+
 }
