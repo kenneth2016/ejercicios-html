@@ -8,7 +8,7 @@ body{
 }
 
 .primero{
-	height: 500px;
+	height: 650px;
 	width: 100pxpx;
 	background: url(mujer1_si.jpg);
 	background-size:cover;
@@ -31,13 +31,17 @@ body{
 	text-align: justify;
 }
 .primer_titulo{
-	font-size: 40px;
+	font-size: 55px;
 	color: white;
 	text-align: center;
 	clear: both;
 	font-weight: normal;
 }
 
+.meter{
+	height: 25px;
+	width: 300px;
+}
 .button{
 	text-align: center
 }
@@ -47,14 +51,16 @@ body{
 }
 
 input{
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 .boton{
 	background-color: #5CAC55;
 	color:white;
 	border: none;
-	border-radius: 10px;
+	border-radius: 5px;
+	width: 100px;
+	height: 25px;
 }
 
 h1{
@@ -73,6 +79,10 @@ h1{
 	color: white;
 	margin: auto;
 	width:450px;
+}
+
+.el_parrafo{
+	color: white
 }
 
 .dos_cuadros{
@@ -112,7 +122,11 @@ h1{
 	color: green;
 	background-color: white;
 	margin-left: 50px;
+	margin-bottom: 30px;
 	border:none;
+	width: 100px;
+	height: 25px;
+
 }
 
 .sponsors{
